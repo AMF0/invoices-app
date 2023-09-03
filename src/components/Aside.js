@@ -27,7 +27,7 @@ function Aside() {
           </div>
           <div className="user">
             <a
-              href="/"
+              href="https://github.com/AMF0"
               target="_blank"
               rel="noreferrer"
             >
